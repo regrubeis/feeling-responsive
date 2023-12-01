@@ -1,3 +1,4 @@
+[![Deploy](https://github.com/regrubeis/feeling-responsive/actions/workflows/jekyll.yml/badge.svg)](https://github.com/regrubeis/feeling-responsive/actions/workflows/jekyll.yml)
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
 # Newsletter: Stay in Touch for Future Updates
